@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88102053412",
+    "project_id": "a7aipsqs",
+    "storage_bucket": "a7aipsqs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88102053412:android:870cf3be92301a99d45ab1",
+        "android_client_info": {
+          "package_name": "com.example.aipsqs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs8vDzoZi57hcSaeYhPmDbO4esGoSqg5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
