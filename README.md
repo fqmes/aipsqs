@@ -62,4 +62,19 @@ The system was tested using:
 git clone https://github.com/fqmes/aipsqs.git
 cd aipsqs
 flutter pub get
+flutter run
+```
+---
+
+```aipsqs/
+├── lib/
+│   ├── controllers/
+│   ├── models/
+│   ├── screens/
+│   ├── services/
+│   ├── widgets/
+│   └── main.dart
+├── pubspec.yaml
+└── README.md
+```
 
