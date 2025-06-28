@@ -66,6 +66,7 @@ flutter run
 ```
 ---
 
+## 🧭 Project Structure (Simplified)
 ```aipsqs/
 ├── lib/
 │   ├── controllers/
